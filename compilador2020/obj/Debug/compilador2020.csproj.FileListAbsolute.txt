@@ -1,0 +1,56 @@
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\source\repos\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\source\repos\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\compilador2020\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020 - copia\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.csprojAssemblyReference.cache
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.Form1.resources
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.Lexico.vistas.winLexico.resources
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.Properties.Resources.resources
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.csproj.GenerateResource.cache
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.csproj.CoreCompileInputs.cache
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\bin\Debug\compilador2020.exe.config
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\bin\Debug\compilador2020.exe
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\bin\Debug\compilador2020.pdb
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jowel\Desktop\compilador2020 - AlexGuambi\compilador2020\obj\Debug\compilador2020.csproj.CopyComplete
