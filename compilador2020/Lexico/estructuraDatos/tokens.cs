@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace compilador2020.Lexico.estructuraDatos
 {
-    class tokens
+    public class tokens
     {
         private int numToken;
         private string sinonimo;

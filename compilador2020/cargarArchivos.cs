@@ -9,12 +9,23 @@ using System.Threading.Tasks;
 
 namespace compilador2020
 {
-    class cargarArchivos
+    public class cargarArchivos
     {
-        string lexico = Path.GetFullPath("../../Archivos/Lexico");
+       
 
-        public List<AFD> automata()
+        public static List<tokens> cargarTokens()
         {
+            string lexico = Path.GetFullPath("../../Archivos/Lexico");
+            string path = lexico + "\\Alfabeto.json";
+            List<tokens> listaTokens = new List<tokens>();
+            string archivo = File.ReadAllText(path);
+            listaTokens = JsonConvert.DeserializeObject<List<tokens>>(archivo);
+            return listaTokens;
+        }
+
+        public static List<AFD> automata()
+        {
+            string lexico = Path.GetFullPath("../../Archivos/Lexico");
             string path = lexico + "\\AFD.json";
             List<AFD> listaTokens = new List<AFD>();
             string archivo = File.ReadAllText(path);
@@ -22,13 +33,6 @@ namespace compilador2020
             return listaTokens;
         }
 
-        public List<tokens> cargarTokens()
-        {
-            string path = lexico + "\\Alfabeto.json";
-            List<tokens> listaTokens = new List<tokens>();
-            string archivo = File.ReadAllText(path);
-            listaTokens = JsonConvert.DeserializeObject<List<tokens>>(archivo);
-            return listaTokens;
-        }
+     
     }
 }

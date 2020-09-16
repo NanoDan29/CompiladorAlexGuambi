@@ -58,6 +58,7 @@
     </Compile>
     <Compile Include="Lexico\clases\lexico.cs" />
     <Compile Include="Lexico\estructuraDatos\AFD.cs" />
+    <Compile Include="Lexico\estructuraDatos\TablaSimbolos.cs" />
     <Compile Include="Lexico\estructuraDatos\tokens.cs" />
     <Compile Include="Lexico\estructuraDatos\movimientos.cs" />
     <Compile Include="Lexico\vistas\winLexico.cs">

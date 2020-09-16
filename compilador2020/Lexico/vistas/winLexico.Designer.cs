@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tblAFD = new System.Windows.Forms.DataGridView();
+            this.tblAutomata = new System.Windows.Forms.DataGridView();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tblAlfabeto = new System.Windows.Forms.DataGridView();
             this.tabPage4 = new System.Windows.Forms.TabPage();
@@ -43,7 +43,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.tblAFD)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblAutomata)).BeginInit();
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tblAlfabeto)).BeginInit();
             this.tabPage4.SuspendLayout();
@@ -67,7 +67,7 @@
             // 
             // tabPage1
             // 
-            this.tabPage1.Controls.Add(this.tblAFD);
+            this.tabPage1.Controls.Add(this.tblAutomata);
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
@@ -76,13 +76,13 @@
             this.tabPage1.Text = "AFD";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // tblAFD
+            // tblAutomata
             // 
-            this.tblAFD.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.tblAFD.Location = new System.Drawing.Point(6, 6);
-            this.tblAFD.Name = "tblAFD";
-            this.tblAFD.Size = new System.Drawing.Size(766, 506);
-            this.tblAFD.TabIndex = 0;
+            this.tblAutomata.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.tblAutomata.Location = new System.Drawing.Point(6, 6);
+            this.tblAutomata.Name = "tblAutomata";
+            this.tblAutomata.Size = new System.Drawing.Size(766, 506);
+            this.tblAutomata.TabIndex = 0;
             // 
             // tabPage3
             // 
@@ -172,7 +172,7 @@
             this.Size = new System.Drawing.Size(792, 550);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.tblAFD)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblAutomata)).EndInit();
             this.tabPage3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.tblAlfabeto)).EndInit();
             this.tabPage4.ResumeLayout(false);
@@ -190,7 +190,7 @@
         private System.Windows.Forms.TabPage tabPage3;
         private System.Windows.Forms.TabPage tabPage4;
         private System.Windows.Forms.TabPage tabPage5;
-        private System.Windows.Forms.DataGridView tblAFD;
+        private System.Windows.Forms.DataGridView tblAutomata;
         private System.Windows.Forms.DataGridView tblAlfabeto;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.RichTextBox txtlexico;

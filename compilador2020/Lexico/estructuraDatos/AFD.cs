@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace compilador2020.Lexico.estructuraDatos
 {
-    class AFD
+    public class AFD
     {
         private int fila;
         private int estado, nEstado;
